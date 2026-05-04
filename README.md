@@ -41,3 +41,7 @@ climate:
 
 ### Known issues
 salus-it500.com server is bloking the IP of the host, in our case the HA external IP. This can be fixed with router restart in case of PPOE connection or you can try to send a mail to salus support...
+### Need help for second heating zone with senzor IT300
+I'm not a programmer, can you help me for integrate both zones CH1 & CH2?
+<img width="2385" height="1920" alt="Screenshot 2026-05-04 200646" src="https://github.com/user-attachments/assets/724c53dd-8d76-432e-820c-8bb60b964bae" />
+
